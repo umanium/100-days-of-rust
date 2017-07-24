@@ -71,7 +71,7 @@ error: linking with `cc` failed: exit code: 1
           collect2: error: ld returned 1 exit status
 ```
 
-After searching the internet, I found out that the package `build-essentials` is missing, so the compilation cannot be completed. I installed the package then:
+After searching the internet, I found out that the package `build-essential` is missing, so the compilation cannot be completed. I installed the package then:
 ```
 sudo apt-get install build-essential
 ```
