@@ -18,4 +18,5 @@ Anyways, let's track my progress here:
 ### My 100_days_of_code challenge progress
 - (23 July 2017) [Day 0: I'm trying to set up my Linux Mint machine and using Visual Studio Code to do Rust programming!](https://github.com/umanium/100-days-of-rust/tree/master/00-installing_and_hello_world)
 - (24 July 2017) [Day 1: Understanding cargo, the Rust build system and package manager, and standard I/O for Rust](https://github.com/umanium/100-days-of-rust/tree/master/01-cargo_and_stdio)
+- (25 July 2017) [Day 2: Reading lines: understanding file-reading](https://github.com/umanium/100-days-of-rust/tree/master/02-reading_lines)
 
