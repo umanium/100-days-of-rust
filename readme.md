@@ -22,5 +22,5 @@ Anyways, let's track my progress here:
 - (27 July 2017) [Day 4: Guessing Game (from the book)](https://github.com/umanium/100-days-of-rust/tree/master/03-guessing_game) I missed a day :(
 - (29 July 2017) [Day 5: Reading from command line arguments](https://github.com/umanium/100-days-of-rust/tree/master/04-read_command_args)
 - (2 August 2017) [Day 6: Adding start and end range to the guessing game](https://github.com/umanium/100-days-of-rust/tree/master/05-guessing_game_improved); Sorry I missed a couple of days, since I have to travel far and have a jetlag, but I am now in the form again!
-- (3 August 2017) [Day 7: Improving the guessing game with conditionals] (https://github.com/umanium/100-days-of-rust/tree/master/06-guessing_game_improved_2)
+- (3 August 2017) [Day 7: Improving the guessing game with conditionals](https://github.com/umanium/100-days-of-rust/tree/master/06-guessing_game_improved_2)
 - (6 August 2017) [Day 8: Unit test in Rust](https://github.com/umanium/100-days-of-rust/tree/master/07-unit_tests)
