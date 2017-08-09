@@ -25,3 +25,4 @@ Anyways, let's track my progress here:
 - (3 August 2017) [Day 7: Improving the guessing game with conditionals](https://github.com/umanium/100-days-of-rust/tree/master/06-guessing_game_improved_2)
 - (6 August 2017) [Day 8: Unit test in Rust](https://github.com/umanium/100-days-of-rust/tree/master/07-unit_tests)
 - (7 August 2017) [Day 9: Functions and Modules](https://github.com/umanium/100-days-of-rust/tree/master/08-functions_and_modules)
+- (9 August 2017) [Day 10: Structs](https://github.com/umanium/100-days-of-rust/tree/master/09-structs)
