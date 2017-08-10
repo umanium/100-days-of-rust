@@ -1,3 +1,5 @@
+use std::fmt;
+
 pub struct Point {
     pub x: i32,
     pub y: i32
@@ -6,6 +8,12 @@ pub struct Point {
 impl PartialEq for Point {
     fn eq(&self, other: &Point) -> bool {
         self.x == other.x && self.y == other.y
+    }
+}
+
+impl fmt::Display for Point {
+    fn fmt(&self, fmt: &mut fmt::Formatter) -> fmt::Result {
+        write!(fmt, "({}, {})", self.x, self.y)
     }
 }
 
